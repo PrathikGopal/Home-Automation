@@ -185,12 +185,12 @@ WhatisMyRoomIntent how hot my {Thermometer} is
 
 ## Screenshots from https://developer.amazon.com/edw/home.html#/skills/list
 
-![1](images/alexa_1.png)
+![1](Images/alexa_1.png)
 
-![2](images/alexa_2.png)
+![2](Images/alexa_2.png)
 
-![3](images/alexa_3.png)
+![3](Images/alexa_3.png)
 
-![4](images/alexa_4.png)
+![4](Images/alexa_4.png)
 
-![5](images/alexa_5.png)
+![5](Images/alexa_5.png)
