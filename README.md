@@ -78,9 +78,9 @@
 
 
 ## My gui
-<img src="https://github.com/Hassio-prathik/Home-Assistant-Configs/blob/master/Images/File1.png" alt="Home" />
-<img src="https://github.com/Hassio-prathik/Home-Assistant-Configs/blob/master/Images/File2.png" alt="Weather" />
-<img src="https://raw.githubusercontent.com/Hassio-prathik/Home-Assistant-Configs/master/Images/File3.png" alt="Automations" />
-<img src="https://github.com/Hassio-prathik/Home-Assistant-Configs/blob/master/Images/File4.png" alt="System" />
-<img src="https://github.com/Hassio-prathik/Home-Assistant-Configs/blob/master/Images/File5.png" alt="Floorplan" />
+<img src="https://github.com/PrathikGopal/Home-Automation/blob/master/Images/File1.png" alt="Home" />
+<img src="https://github.com/PrathikGopal/Home-Automation/blob/master/Images/File2.png" alt="Weather" />
+<img src="https://github.com/PrathikGopal/Home-Automation/blob/master/Images/File3.png" alt="Automations" />
+<img src="https://github.com/PrathikGopal/Home-Automation/blob/master/Images/File4.png" alt="System" />
+<img src="https://github.com/PrathikGopal/Home-Automation/blob/master/Images/File5.png" alt="Floorplan" />
 
