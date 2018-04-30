@@ -4,7 +4,7 @@
 
 ## Running a Hassio 0.68.0(27th April) version of Home assistant on a Raspberry Pi 3 Model B // 32GB Samsung UHS-1 Memory Chip:
 * Raspberry Pi Power HUb and Usb Extension board.
-* Alexa X2
+* Amazon Echo Dot// Alexa X2
 * Using Homebridge to get support for Homekit and Siri.
 * Using Alexa skill to integrate alexa to Home Assistant.
 
@@ -12,9 +12,12 @@
 * Home Assistant
 * Home Bridge addon on hassio
 * iPad for Homebridge
+* D1 Mini boards with DHT Sensors and other shields publishing to MQTT
+* Amazon Echo Dot with Home Assistant emulated custom skills via Alexa API.
 
 ## Used Components & Resources:
-* SonOff Basic - running Tasmota FW
+* Sonoff Switches (https://www.itead.cc/sonoff-wifi-wireless-switch.html)
+  * With custom firmware (https://github.com/arendst/Sonoff-Tasmota) controlled via MQTT
 * Apple Tv3
 * Hikvision NVR
 * Bruh Multisensor(Supported Features Include)
