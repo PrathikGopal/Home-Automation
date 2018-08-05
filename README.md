@@ -106,6 +106,7 @@
 <img src="https://github.com/PrathikGopal/Home-Automation/blob/master/Images/File1.png" alt="Home" />
 <img src="https://github.com/PrathikGopal/Home-Automation/blob/master/Images/File2.png" alt="Weather" />
 <img src="https://github.com/PrathikGopal/Home-Automation/blob/master/Images/File3.png" alt="Automations" />
+<img src="https://github.com/PrathikGopal/Home-Automation/blob/master/Images/File6.png" alt="Device Tracker" />
 <img src="https://github.com/PrathikGopal/Home-Automation/blob/master/Images/File4.png" alt="System" />
 <img src="https://github.com/PrathikGopal/Home-Automation/blob/master/Images/File5.png" alt="Floorplan" />
 
