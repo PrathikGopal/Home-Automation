@@ -28,12 +28,12 @@
   * With custom firmware (https://github.com/arendst/Sonoff-Tasmota) controlled via MQTT
 * Apple Tv3
 * Hikvision NVR
-* Bruh Multisensor(Supported Features Include)
+* Bruh Multisensor and Esphome Multisensor(Supported Features Include)
    * DHT22 temperature sensor
    * DHT22 humidity sensor
    * AM312 PIR motion sensor
    * TEMT600 light sensor
-   * RGB led with support for color, flash, fade, and transition
+   * RGB led with support for color, flash, fade, transition and custom effects
    * Over-the-Air (OTA) upload from the ArduinoIDE
 * Matrix MQTT LED - MAX7219 for Messages on key events and sensors
 * NFC & RFID Readers for Door Locks & Automations
