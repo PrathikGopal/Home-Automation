@@ -2,12 +2,14 @@
 
 * My Hardware components are bare minimum and runs at its best.
 
-## Running a Hassio 0.75.1(5th August) version of Home assistant on a Raspberry Pi 3 Model B // 32GB Samsung UHS-1 SD:
+## Running a Hassio 0.91.4(19th April 2019) version of Home assistant on a Raspberry Pi 3 Model B+ // 32GB Samsung UHS-1 SD:
 * Raspberry Pi Power HUb and Usb with backup Extension board.
+* RF devices
 * Multiple Amazon Echo Dot// Alexa
 * Using Homekit/Homebrigde to get support for Homekit and Siri.
 * Using Alexa skills to integrate alexa to HA.
 * Using Google Assistant Integrated into HA
+* Atom / Vscode / ESPeasy / ESPHome
 
 ## Controllers:
 * Home Assistant
@@ -17,7 +19,7 @@
 * Pi-Hole
 * D1 Mini boards with DHT Sensors and other shields publishing to MQTT
 * ESP32 for better lighting controls
-* ESP8266 NODE MCU
+* ESP8266 NODE MCU 
 * PN532 Module with NFC and RFID capabilities
 * Amazon Echo Dot with HA emulated custom skills via Alexa API.
 
